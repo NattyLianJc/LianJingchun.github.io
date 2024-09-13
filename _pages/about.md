@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am second-year master's student at the School of Software Engineering, Xi'an Jiaotong University, specializing in **deep learning**, **multimodal learning**, and **image recognition**. My primary research interests focus on leveraging deep learning techniques to process and integrate multimodal data to enhance performance in image analysis and recognition tasks.
 
