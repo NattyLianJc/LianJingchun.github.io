@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "../image/LianJingchun.png"
   name             : "Lian Jingchun"
   pronouns         : "him"  
   bio              : "Master's student at Xi'an Jiaotong University, focusing on deep learning and image recognition."
