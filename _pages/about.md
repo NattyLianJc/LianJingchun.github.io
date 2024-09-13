@@ -16,3 +16,5 @@ I am dedicated to exploring the applications of deep learning in image processin
 Throughout my research, I have participated in several projects related to **image recognition** and **multimodal data analysis**, applying deep learning techniques to solve real-world challenges and gaining extensive experience in the field.
 
 If you are interested in my research or potential collaboration opportunities, feel free to contact me.
+
+[Email](15829901729@stu.xjtu.edu.cn) / [Github](https://github.com/NattyLianJc)
