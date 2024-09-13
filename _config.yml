@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Lian Jingchun"
+  pronouns         : "him"  
+  bio              : "Master's student at Xi'an Jiaotong University, focusing on deep learning and image recognition."
+  location         : "Xi'an Jiaotong University, No. 28 Xianning West Road, Beilin District, Xi'an, Shaanxi, China"
+  employer         : "Xi'an Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "15829901729@stu.xjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
