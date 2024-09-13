@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+# About Me
 
 I am second-year master's student at the School of Software Engineering, Xi'an Jiaotong University, specializing in **deep learning**, **multimodal learning**, and **image recognition**. My primary research interests focus on leveraging deep learning techniques to process and integrate multimodal data to enhance performance in image analysis and recognition tasks.
 
